@@ -1,1 +1,1 @@
-document.getElementById("name").text = "NewTHings!";
+document.getElementById("name").innerHTML = "NewTHings!";
