@@ -1,3 +1,10 @@
 body {
 	background-color: black;
 }
+
+.title {
+	color: white;
+	font-family: impact;
+	font-size: 100px;
+	margin-top: 50px;
+}
