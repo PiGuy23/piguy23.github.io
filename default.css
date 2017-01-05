@@ -8,3 +8,7 @@ body {
 	font-size: 100px;
 	margin-top: 50px;
 }
+
+#name {
+	color: blue;
+}
