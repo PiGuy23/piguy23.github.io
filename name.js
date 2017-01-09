@@ -1,3 +1,6 @@
-document.getElementById("name").innerHTML = ran;
+var names = ['Jim', 'Bob', 'Frank'];
+var ran = Math.floor(Math.random() * 3);
+document.getElementById("name").innerHTML = names[ran];
 
-var ran = Math.floor(Math.random() * 20);
+
+
