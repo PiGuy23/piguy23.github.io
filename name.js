@@ -2,7 +2,10 @@ var names = ['Jim', 'Bob', 'Frank', 'Adam', 'Kyle', 'Deveroon', 'Jesus', 'Chris'
 
 var ran = Math.floor(Math.random() * 15);
 
+var ranc = Math.floor(Math.random() * 5);
+
 document.getElementById("name").innerHTML = names[ran];
 
+var colors = ["#36ed25", "#ed2525", "#2af9f9", "#f92ae1", "#fcb819"];
 
-
+document.getElementById("name").style.color = colors[ranc];
