@@ -1,6 +1,6 @@
-var names = ['Jim', 'Bob', 'Frank', 'Adam', 'Kyle', 'Deveroon', 'Jesus', 'Chris', 'Jessica', 'Nick', 'John', 'Ashton', 'Doug', 'Bret', 'Edward'];
+var names = ['Drew', 'Jim', 'Bob', 'Frank', 'Adam', 'Kyle', 'Deveroon', 'Jesus', 'Chris', 'Jessica', 'Nick', 'John', 'Ashton', 'Doug', 'Bret', 'Edward'];
 
-var ran = Math.floor(Math.random() * 15);
+var ran = Math.floor(Math.random() * 16);
 
 var ranc = Math.floor(Math.random() * 5);
 
