@@ -6,7 +6,7 @@ var ranc = Math.floor(Math.random() * 5);
 
 var ranw = Math.floor(Math.random() * 9);
 
-document.getElementById("name").innerHTML = names[ran];
+document.getElementById("name").innerHTML = names[0];
 
 var colors = ["#36ed25", "#ed2525", "#2af9f9", "#f92ae1", "#fcb819"];
 
